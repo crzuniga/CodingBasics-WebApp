@@ -6,14 +6,15 @@
 </template>
 
 <script setup>
-	import HelloWorld from "../components/HelloWorld.vue";
+import HelloWorld from "../components/HelloWorld.vue";
 </script>
+
 <style>
-	.home {
-		display: flex;
-		flex-direction: column;
-		align-items: center;
-		justify-content: center;
-		min-height: 100vh;
-	}
+.home {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	min-height: 100vh;
+}
 </style>
